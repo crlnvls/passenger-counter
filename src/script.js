@@ -1,5 +1,5 @@
 const counter = document.getElementById("count");
-const btn = document.getElementById("btn");
+const btn = document.getElementById("inc-btn");
 
 let count = 0;
 
