@@ -1,2 +1,3 @@
-# Passenger Counter https://passengercounterjavascript.netlify.app/
+# Passenger Counter 
 Javascript challenge using HTML/CSS for design.
+https://passengercounterjavascript.netlify.app/
