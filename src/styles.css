@@ -31,14 +31,23 @@ h2 {
   font-size: 23px;
   border-radius: 25px;
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  cursor: pointer;
 }
 
 #inc-btn {
   background-color: rgba(216, 171, 230, 0.987);
 }
 
+#inc-btn:hover {
+  background-color: rgba(193, 148, 206, 0.987);
+}
+
 #dec-btn {
   background-color: rgba(179, 171, 230, 0.963);
+}
+
+#dec-btn:hover {
+  background-color: rgba(163, 156, 211, 0.963);
 }
 
 .btn-container {
