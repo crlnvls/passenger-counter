@@ -19,6 +19,6 @@ DecBtn.addEventListener("click", () => {
 });
 
 SaveBtn.addEventListener("click", () => {
-  let countStr = count + " - ";
+  let countStr = `${count} - `;
   p.textContent += countStr;
 });
