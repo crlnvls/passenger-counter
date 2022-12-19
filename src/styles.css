@@ -25,7 +25,8 @@ h2 {
 }
 
 #inc-btn,
-#dec-btn {
+#dec-btn,
+#save-btn {
   margin-bottom: 20px;
   padding: 20px 60px;
   font-size: 23px;
@@ -48,11 +49,4 @@ h2 {
 
 #dec-btn:hover {
   background-color: rgba(163, 156, 211, 0.963);
-}
-
-.btn-container {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
 }
