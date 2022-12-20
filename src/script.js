@@ -9,7 +9,7 @@ document.querySelector(".container").appendChild(p);
 let count = 0;
 
 IncBtn.addEventListener("click", () => {
-  count += 1;
+  count++;
   counter.textContent = count;
 });
 
